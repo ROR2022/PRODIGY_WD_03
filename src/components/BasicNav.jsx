@@ -92,7 +92,7 @@ const BasicNav = ({ isOffcanvas, handleCloseOffcanvas }) => {
           <span>Github</span>
           </div>
         </NavDropdown.Item>
-        <NavDropdown.Item href="https://github.com/ROR2022/PRODIGY_WD_02/">
+        <NavDropdown.Item href="https://github.com/ROR2022/PRODIGY_WD_03/">
           <div className="d-flex justify-content-start align-items-center">
           <FaCode style={{ width: "50px", marginLeft:'-10px', marginRight:'-5px' }} />
           <span>Code</span>
