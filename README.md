@@ -7,4 +7,4 @@ Interactive Navigation Menu
 Web Developer Internship
 
 Deploy:
-https://prodigy-wd-01-ochre.vercel.app/
+https://prodigy-wd-03-mu.vercel.app/
