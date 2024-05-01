@@ -2,8 +2,7 @@ Internship Prodigy Infotech
 https://prodigyinfotech.dev/
 #ProdigyInfotech
 
-Interactive Navigation Menu
-
+Tic-Tac-Toe webapp
 Web Developer Internship
 
 Deploy:
